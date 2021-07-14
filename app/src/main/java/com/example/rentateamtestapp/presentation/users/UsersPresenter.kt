@@ -1,7 +1,6 @@
 package com.example.rentateamtestapp.presentation.users
 
 import android.util.Log
-import com.bumptech.glide.Glide.init
 import com.example.rentateamtestapp.Screens
 import com.example.rentateamtestapp.data.User
 import com.example.rentateamtestapp.domain.UsersInteractor
